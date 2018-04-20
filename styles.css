@@ -1,5 +1,5 @@
 img {
-    width:200px;
+    width:300px;
 }
 body {
     text-align: center;
@@ -7,7 +7,7 @@ body {
 }
 body {
     text-align: center;
-    font-family: "Arial";
-    background: azure;
-    color: purple;
+    font-family: "Oswald";
+    background: #00416A;
+    color: #FFFF66;
 }
